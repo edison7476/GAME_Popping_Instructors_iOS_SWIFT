@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A5A1E6EA1D3350A700F0359A /* Head1.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A1E6E61D3350A700F0359A /* Head1.png */; };
+		A5A1E6EB1D3350A700F0359A /* Head2.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A1E6E71D3350A700F0359A /* Head2.png */; };
+		A5A1E6EC1D3350A700F0359A /* Head3.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A1E6E81D3350A700F0359A /* Head3.png */; };
+		A5A1E6ED1D3350A700F0359A /* Head4.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A1E6E91D3350A700F0359A /* Head4.png */; };
+		A5A1E6EF1D3371E800F0359A /* DiscsBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A1E6EE1D3371E800F0359A /* DiscsBackground.png */; };
 		A5AA52E11D319A7800E5C2AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5AA52E01D319A7800E5C2AB /* AppDelegate.swift */; };
 		A5AA52E31D319A7800E5C2AB /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A5AA52E21D319A7800E5C2AB /* GameScene.sks */; };
 		A5AA52E51D319A7800E5C2AB /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5AA52E41D319A7800E5C2AB /* GameScene.swift */; };
@@ -16,6 +21,14 @@
 		A5AA52EF1D319A7800E5C2AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5AA52ED1D319A7800E5C2AB /* LaunchScreen.storyboard */; };
 		A5AA52FA1D319A7800E5C2AB /* PoppingInstrTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5AA52F91D319A7800E5C2AB /* PoppingInstrTests.swift */; };
 		A5AA53051D319A7900E5C2AB /* PoppingInstrUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5AA53041D319A7900E5C2AB /* PoppingInstrUITests.swift */; };
+		A5AA531A1D319DED00E5C2AB /* Click.wav in Resources */ = {isa = PBXBuildFile; fileRef = A5AA53121D319DED00E5C2AB /* Click.wav */; };
+		A5AA531B1D319DED00E5C2AB /* Correct.wav in Resources */ = {isa = PBXBuildFile; fileRef = A5AA53131D319DED00E5C2AB /* Correct.wav */; };
+		A5AA53211D319DED00E5C2AB /* GameOverSound.wav in Resources */ = {isa = PBXBuildFile; fileRef = A5AA53191D319DED00E5C2AB /* GameOverSound.wav */; };
+		A5AA53251D31A54A00E5C2AB /* Pusab.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5AA53241D31A50300E5C2AB /* Pusab.ttf */; };
+		A5AA53271D31A82D00E5C2AB /* MainMenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5AA53261D31A82D00E5C2AB /* MainMenuScene.swift */; };
+		A5AA53291D31A8C600E5C2AB /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5AA53281D31A8C600E5C2AB /* GameOverScene.swift */; };
+		A5EEBD0C1D34196600AC00EE /* HeadExplosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = A5EEBD0A1D34196600AC00EE /* HeadExplosion.sks */; };
+		A5EEBD0D1D34196600AC00EE /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = A5EEBD0B1D34196600AC00EE /* spark.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +49,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A5A1E6E61D3350A700F0359A /* Head1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Head1.png; sourceTree = "<group>"; };
+		A5A1E6E71D3350A700F0359A /* Head2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Head2.png; sourceTree = "<group>"; };
+		A5A1E6E81D3350A700F0359A /* Head3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Head3.png; sourceTree = "<group>"; };
+		A5A1E6E91D3350A700F0359A /* Head4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Head4.png; sourceTree = "<group>"; };
+		A5A1E6EE1D3371E800F0359A /* DiscsBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DiscsBackground.png; sourceTree = "<group>"; };
 		A5AA52DD1D319A7800E5C2AB /* PoppingInstr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PoppingInstr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5AA52E01D319A7800E5C2AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A5AA52E21D319A7800E5C2AB /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -51,6 +69,14 @@
 		A5AA53001D319A7900E5C2AB /* PoppingInstrUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PoppingInstrUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5AA53041D319A7900E5C2AB /* PoppingInstrUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoppingInstrUITests.swift; sourceTree = "<group>"; };
 		A5AA53061D319A7900E5C2AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5AA53121D319DED00E5C2AB /* Click.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Click.wav; sourceTree = "<group>"; };
+		A5AA53131D319DED00E5C2AB /* Correct.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Correct.wav; sourceTree = "<group>"; };
+		A5AA53191D319DED00E5C2AB /* GameOverSound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = GameOverSound.wav; sourceTree = "<group>"; };
+		A5AA53241D31A50300E5C2AB /* Pusab.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Pusab.ttf; sourceTree = "<group>"; };
+		A5AA53261D31A82D00E5C2AB /* MainMenuScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainMenuScene.swift; path = ../MainMenuScene.swift; sourceTree = "<group>"; };
+		A5AA53281D31A8C600E5C2AB /* GameOverScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameOverScene.swift; sourceTree = "<group>"; };
+		A5EEBD0A1D34196600AC00EE /* HeadExplosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = HeadExplosion.sks; sourceTree = "<group>"; };
+		A5EEBD0B1D34196600AC00EE /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,11 +130,24 @@
 				A5AA52E01D319A7800E5C2AB /* AppDelegate.swift */,
 				A5AA52E21D319A7800E5C2AB /* GameScene.sks */,
 				A5AA52E41D319A7800E5C2AB /* GameScene.swift */,
+				A5AA53261D31A82D00E5C2AB /* MainMenuScene.swift */,
+				A5AA53281D31A8C600E5C2AB /* GameOverScene.swift */,
 				A5AA52E61D319A7800E5C2AB /* GameViewController.swift */,
 				A5AA52E81D319A7800E5C2AB /* Main.storyboard */,
 				A5AA52EB1D319A7800E5C2AB /* Assets.xcassets */,
+				A5A1E6EE1D3371E800F0359A /* DiscsBackground.png */,
+				A5A1E6E61D3350A700F0359A /* Head1.png */,
+				A5A1E6E71D3350A700F0359A /* Head2.png */,
+				A5A1E6E81D3350A700F0359A /* Head3.png */,
+				A5A1E6E91D3350A700F0359A /* Head4.png */,
+				A5AA53121D319DED00E5C2AB /* Click.wav */,
+				A5AA53131D319DED00E5C2AB /* Correct.wav */,
+				A5AA53191D319DED00E5C2AB /* GameOverSound.wav */,
+				A5AA53241D31A50300E5C2AB /* Pusab.ttf */,
 				A5AA52ED1D319A7800E5C2AB /* LaunchScreen.storyboard */,
 				A5AA52F01D319A7800E5C2AB /* Info.plist */,
+				A5EEBD0A1D34196600AC00EE /* HeadExplosion.sks */,
+				A5EEBD0B1D34196600AC00EE /* spark.png */,
 			);
 			path = PoppingInstr;
 			sourceTree = "<group>";
@@ -235,10 +274,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5A1E6EB1D3350A700F0359A /* Head2.png in Resources */,
+				A5AA53251D31A54A00E5C2AB /* Pusab.ttf in Resources */,
 				A5AA52E31D319A7800E5C2AB /* GameScene.sks in Resources */,
+				A5A1E6EF1D3371E800F0359A /* DiscsBackground.png in Resources */,
+				A5AA531B1D319DED00E5C2AB /* Correct.wav in Resources */,
 				A5AA52EF1D319A7800E5C2AB /* LaunchScreen.storyboard in Resources */,
+				A5A1E6ED1D3350A700F0359A /* Head4.png in Resources */,
+				A5A1E6EC1D3350A700F0359A /* Head3.png in Resources */,
 				A5AA52EC1D319A7800E5C2AB /* Assets.xcassets in Resources */,
+				A5EEBD0C1D34196600AC00EE /* HeadExplosion.sks in Resources */,
+				A5EEBD0D1D34196600AC00EE /* spark.png in Resources */,
+				A5A1E6EA1D3350A700F0359A /* Head1.png in Resources */,
+				A5AA53211D319DED00E5C2AB /* GameOverSound.wav in Resources */,
 				A5AA52EA1D319A7800E5C2AB /* Main.storyboard in Resources */,
+				A5AA531A1D319DED00E5C2AB /* Click.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,8 +313,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5AA53291D31A8C600E5C2AB /* GameOverScene.swift in Sources */,
 				A5AA52E51D319A7800E5C2AB /* GameScene.swift in Sources */,
 				A5AA52E71D319A7800E5C2AB /* GameViewController.swift in Sources */,
+				A5AA53271D31A82D00E5C2AB /* MainMenuScene.swift in Sources */,
 				A5AA52E11D319A7800E5C2AB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -410,9 +462,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = PoppingInstr/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Meena.PoppingInstr;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -421,9 +475,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = PoppingInstr/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Meena.PoppingInstr;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -494,6 +550,7 @@
 				A5AA530B1D319A7900E5C2AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5AA530C1D319A7900E5C2AB /* Build configuration list for PBXNativeTarget "PoppingInstrTests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +559,7 @@
 				A5AA530E1D319A7900E5C2AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5AA530F1D319A7900E5C2AB /* Build configuration list for PBXNativeTarget "PoppingInstrUITests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +568,7 @@
 				A5AA53111D319A7900E5C2AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
